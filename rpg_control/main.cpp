@@ -1,0 +1,15 @@
+#include "stdafx.h"
+#include "mainWindow.h"
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+    mainWindow w;
+    w.show();
+
+    //rpg_control w;
+    //w.show();
+
+    return a.exec();
+}

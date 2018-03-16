@@ -1,0 +1,15 @@
+/Library
+/Obj
+/Temp
+x64/
+Debug/
+Release/
+/ipch
+/.vs
+/Bin
+/*.db
+/*.opendb
+/Win32
+/QT
+*.sdf
+/ipch
